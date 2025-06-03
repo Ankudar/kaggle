@@ -1,2 +1,2 @@
-# kaggle_titanic
-Ankudar/kaggle_titanic
+# kaggle
+Здесь, по настроению, будут разные проекты с kaggle
